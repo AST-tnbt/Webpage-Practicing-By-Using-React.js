@@ -1,0 +1,75 @@
+.message {
+    height: 100vh;
+    padding: 80px 0;
+    background-color: #f5f5f5 ;
+}
+.message__title {
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 38px;
+    color: #333;
+}
+.message__text {
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 18px;
+    color: #545454;
+    padding-bottom: 50px;
+}
+.message__info {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    flex-wrap: wrap;
+}
+.input__name, .input__email {
+    width: 48%;
+    font-size: 18px;
+    height: 40px;
+    padding-left: 10px;
+}
+
+.input__title {
+    width: 100%;
+    margin-top: 30px;
+    height: 40px;
+    font-size: 18px;
+    padding-left: 10px;
+}
+.input__comment {
+    width: 100%;
+    margin-top: 30px;
+    font-size: 18px;
+    padding-left: 10px;
+    align-self: self-start;
+    resize: none;
+    padding-top: 8px;
+}
+input, textarea {
+    border: none;
+    outline: none;
+}
+.message__btn {
+    display: block;
+    cursor: pointer;
+    margin: 0 auto;
+    border: none;
+    outline: none;
+    text-align: center;
+    background-color: rgb(16, 201, 195);
+    font-size: 18px;
+    letter-spacing: normal;
+    color: #fff;
+    padding: 10px 20px;
+    transition: 0.3s;
+    font-weight: 600;
+    transition: background-color .2s ease-in;
+    text-align: center;
+    align-items: center;
+}
+.message__btn:hover {
+    background-color: rgb(16, 173, 168);
+}

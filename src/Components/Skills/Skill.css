@@ -1,0 +1,37 @@
+.skill-page {
+    padding: 120px 10%;
+}
+.skill__tile {
+    text-align: center;
+    color: #333;
+    font-size: 38px;
+    font-weight: 600;
+}
+.content {
+    display: flex;
+}
+
+.right-page {
+    width: 50%;
+}
+.list-skill {
+    list-style: none;
+}
+.skill-item {
+    font-size: 18px;
+    padding-top: 40px;
+    color: #333;
+    padding-bottom: 20px;
+}
+.skill-percent-horizon {
+    margin-top: 20px;
+    width: 500px;
+    position: absolute;
+    height: 4px;
+    background-color: #d6d4d4;
+}
+.percent-bar {
+    height: 4px;
+    /* width: 80%; */
+    background-color: rgb(16, 201, 195);
+}

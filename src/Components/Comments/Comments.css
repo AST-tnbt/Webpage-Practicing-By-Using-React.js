@@ -1,0 +1,32 @@
+.comments {
+    padding: 100px 0;
+    background-color: rgb(16, 201, 195);
+} 
+.comment__box {
+    margin: 0 auto;
+}
+.comment__text {
+    font-size: 18px;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+    width: 60%;
+    font-weight: 300;
+    padding-bottom: 30px;
+}
+.comment__name {
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding-bottom: 40px;
+}
+.slick-dots li button::before{
+    font-size: 15px!important;
+    color: #fff!important;
+}
+.slick-dots {
+    background-color: rgb(16, 201, 195);
+}

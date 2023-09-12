@@ -1,0 +1,18 @@
+.home-btn {
+    position: fixed;
+    bottom: 5%;
+    right: 2%;
+    background-color: #777777;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color .2s ease-in-out, opacity 0.2s ease-in-out, visibility 0.2s ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+}
+.home-btn:hover {
+    background-color: rgb(10, 65, 63);
+}
+

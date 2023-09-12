@@ -1,0 +1,21 @@
+.footer {
+    background-color: #141414;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 10%;
+}
+.content__title {
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 18px;
+}
+.content__text {
+    display: block;
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+.list-item {
+    list-style: none;
+}

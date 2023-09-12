@@ -1,0 +1,28 @@
+.home_page {
+    height: 100vh;
+}
+.home__title {
+    color: #fff;
+    font-size: 34px;
+}
+.home__content {
+    color: #fff;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.contact-btn {
+    color: #fff;
+    font-size: 18px;
+    background-color: rgb(16, 201, 195);
+    padding: 12px;
+    outline: none;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.content_box {
+    text-align: left;
+    width: 38%;
+    padding-top: 15%;
+    margin-left: 50%;
+}

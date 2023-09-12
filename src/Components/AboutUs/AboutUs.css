@@ -1,0 +1,23 @@
+.about__page {
+    padding: 100px 0;
+}
+.about__title {
+    text-align: center;
+    font-size: 38px;
+    color: #333;
+    font-weight: 600;
+    padding-bottom: 28px;
+}
+.about__content {
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+    color: #928686;
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+.signature {
+    margin: 0 auto;
+    display: block;
+    height: 100px;
+}

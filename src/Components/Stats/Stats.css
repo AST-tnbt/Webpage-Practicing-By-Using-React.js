@@ -1,0 +1,27 @@
+.stats {
+    background-color: rgb(16, 201, 195);
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 10%;
+}
+.stats__item {
+    display: flex;
+    align-items: center;
+}
+.stats__icon {
+    display: block;
+    height: 40px;
+}
+.stats__content {
+    padding-left: 20px;
+}
+.stats__value {
+    font-size: 18px;
+    display: block;
+    color: #fff;
+}
+.stats__title {
+    font-size: 18px;
+    display: block;
+    color: #fff;
+}
